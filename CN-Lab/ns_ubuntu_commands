@@ -1,0 +1,10 @@
+cd /mnt/c/ns2
+ns t1.tcl
+nam:
+gedit t1.tcl
+
+if error occurs or is shown type:
+export DISPLAT=0:0
+
+then again enter:
+ns t1.tcl
